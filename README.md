@@ -1,11 +1,10 @@
-# website-personal
-website pribadi
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Halaman 1</title>
+   
 </head>
 <body>
 
@@ -65,7 +64,7 @@ Hari itu, Ayana dan Izzan pulang ke rumah dengan hati bahagia.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Halaman 2</title>
+   
 </head>
 <body>
     
@@ -110,7 +109,7 @@ Ayah dan Ibu tersenyum bahagia melihat anak-anak mereka begitu gembira. Hari itu
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Halaman 3</title>
+   
 </head>
 <body>
 <br> <br>
@@ -153,7 +152,7 @@ Ayah dan Ibu saling pandang dan tersenyum. Hari itu pun ditutup dengan pelukan, 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Halaman 4</title>
+   
 </head>
 <body>
     <br> <br>
@@ -208,7 +207,7 @@ selesai...........
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Halaman 5</title>
+   
 </head>
 <body>
     <br> <br>
