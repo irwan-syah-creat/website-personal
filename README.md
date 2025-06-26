@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -55,11 +54,6 @@ Hari itu, Ayana dan Izzan pulang ke rumah dengan hati bahagia.
 
 <br> <br> <br>  
 
-<a href="Pertemuan_2.html"> Halaman 2</a>                
-    
-</body>
-</html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -99,12 +93,6 @@ Ayah dan Ibu tersenyum bahagia melihat anak-anak mereka begitu gembira. Hari itu
 
 <br> <br> <br> <br> <br>  
 
-<a href="Pertemuan_1.html">Halaman 1  </a> |  
-<a href="Pertemuan_3.html">Halaman 3  </a>
-
-</body>
-</html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -143,11 +131,6 @@ Ayah dan Ibu saling pandang dan tersenyum. Hari itu pun ditutup dengan pelukan, 
 
 <br> <br> <br> <br> <br>  
 
-<a href="Pertemuan_2.html">Halaman 2  </a>   |  
-<a href="Pertemuan_4.html">Halaman 4  </a>  
-</body>
-</html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -198,11 +181,7 @@ selesai...........
 
 <br> <br> <br> <br> <br>  
 
-<a href="Pertemuan_3.html">Halaman 3  </a>   |  
-<a href="Pertemuan_5.html">Halaman 5  </a>  
-</body>
-</html>
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -228,10 +207,4 @@ Sampai bertemu di petualangan minggu berikutnya!
 Dengan hangat,
 Penulis
 </p>
-</h3></center>
-<br>
-<br>
-<br>
-<a href="Pertemuan_1.html"> Ke Halaman 1  </a> 
-</body>
-</html>
+
